@@ -110,3 +110,6 @@ El usuario inicia la solicitud, carga datos validos, el monto esta dentro del li
 ## Autores
 
 Trabajo realizado en grupo para la materia Organizacion Empresarial.
+Integrantes: 
+            Ernesto Abel Fatala - Comisión 20
+            Juan Amador Lizarrondo Buffa - Comisión 19
